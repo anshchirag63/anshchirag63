@@ -1,8 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Ansh Chirag</h1>
 <h3 align="center">A passionate Social Media Enthusiast and Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshchirag63&label=Profile%20views&color=0e75b6&style=flat" alt="anshchirag63" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ">
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/chiragansh63" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/chiragansh63?logo=twitter&style=for-the-badge" alt="https://twitter.com/chiragansh63" /></a> </p>
 
